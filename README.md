@@ -1,1 +1,3 @@
-# car-price-prediction
+Car Price Prediction
+
+Welcome to our Car Price Prediction project! In this project, we've developed a machine learning model to predict the selling price of cars based on various features such as year, present price, kilometers driven, fuel type, seller type, transmission, and owner details.Our goal is to assist users in estimating the price of a car they intend to sell or purchase. By leveraging machine learning techniques, we've trained a predictive model that analyzes historical car sales data to make accurate price predictions.Thank you for your interest in our Car Price Prediction project! We hope you find it useful and insightful. Happy predicting! 🚗💰
